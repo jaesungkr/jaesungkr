@@ -1,4 +1,8 @@
-### From code to everyday use
+### From data to everyday tools
+
+**[Prediction with incomplete data](https://github.com/jaesungkr/Prediction-with-incomplete-data)** · Data research
+
+A dissertation comparing missing-data methods for housing-price prediction, with notebooks and evaluation results.
 
 **[Slink](https://github.com/jaesungkr/slink)** · Desktop
 
