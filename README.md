@@ -1,15 +1,18 @@
-### From data to everyday tools
+<p>
+  <img src="assets/identity.svg" width="960" alt="Data into useful tools. A coral data grid connects to a desktop application." />
+</p>
 
-**[Prediction with incomplete data](https://github.com/jaesungkr/Prediction-with-incomplete-data)** · Data research
+### Selected work
 
-A dissertation comparing missing-data methods for housing-price prediction, with notebooks and evaluation results.
+**01 / DATA** · [Missing-data research](https://github.com/jaesungkr/Prediction-with-incomplete-data)  
+Comparing missing-data methods for housing-price prediction, with notebooks and evaluation results.
 
-**[Slink](https://github.com/jaesungkr/slink)** · Desktop
+**02 / TOOLS** · [Slink](https://github.com/jaesungkr/slink)  
+A Windows utility built with Python, Win32 APIs, and a web UI. [Download the app →](https://github.com/jaesungkr/slink/releases/latest)
 
-Python and Win32 behind a web UI, packaged as a standalone Windows app.  
-[Download](https://github.com/jaesungkr/slink/releases/latest) · [Under the hood](https://github.com/jaesungkr/slink#how-it-works)
+**03 / WORKFLOWS** · [dev.log workspace](https://github.com/jaesungkr/blog-workspace)  
+AI-assisted research and publishing, backed by Python validation and versioned sources.
 
-**[dev.log workspace](https://github.com/jaesungkr/blog-workspace)** · Workflow
+---
 
-AI-assisted research and publishing, with Python validation and versioned source material.  
-[Explore the workflow](https://github.com/jaesungkr/blog-workspace#readme) · [Read dev.log](https://dop3n.tistory.com)
+[Read dev.log →](https://dop3n.tistory.com)
