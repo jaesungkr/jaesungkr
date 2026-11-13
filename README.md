@@ -1,9 +1,11 @@
-<h3 align="center">Jaesung Park</h3>
+### From code to everyday use
 
-<p align="center">Tools, experiments, and notes.</p>
+**[Slink](https://github.com/jaesungkr/slink)** · Desktop
 
-<p align="center">
-  <a href="https://github.com/jaesungkr/slink">Slink</a> &nbsp;·&nbsp;
-  <a href="https://github.com/jaesungkr/blog-workspace">Workspace</a> &nbsp;·&nbsp;
-  <a href="https://dop3n.tistory.com">dev.log</a>
-</p>
+Python and Win32 behind a web UI, packaged as a standalone Windows app.  
+[Download](https://github.com/jaesungkr/slink/releases/latest) · [Under the hood](https://github.com/jaesungkr/slink#how-it-works)
+
+**[dev.log workspace](https://github.com/jaesungkr/blog-workspace)** · Workflow
+
+AI-assisted research and publishing, with Python validation and versioned source material.  
+[Explore the workflow](https://github.com/jaesungkr/blog-workspace#readme) · [Read dev.log](https://dop3n.tistory.com)
