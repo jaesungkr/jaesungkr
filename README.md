@@ -1,8 +1,9 @@
-# Jaesung Park
+<h3 align="center">Jaesung Park</h3>
 
-Building useful tools and sharing what I learn.
+<p align="center">Tools, experiments, and notes.</p>
 
-- [Slink](https://github.com/jaesungkr/slink) — A Windows utility for hiding and restoring app windows.
-- [dev.log workspace](https://github.com/jaesungkr/blog-workspace) — Publishing workflows, validation scripts, and reusable AI skills.
-
-[Writing → dev.log](https://dop3n.tistory.com)
+<p align="center">
+  <a href="https://github.com/jaesungkr/slink">Slink</a> &nbsp;·&nbsp;
+  <a href="https://github.com/jaesungkr/blog-workspace">Workspace</a> &nbsp;·&nbsp;
+  <a href="https://dop3n.tistory.com">dev.log</a>
+</p>
