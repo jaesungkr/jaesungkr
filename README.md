@@ -1,6 +1,8 @@
 <p>
-  <img src="assets/identity.svg" width="960" alt="Data into useful tools. A coral data grid connects to a desktop application." />
+  <img src="assets/identity.svg" width="960" alt="Data into useful tools. Data and AI-assisted workflows, connected to practical software." />
 </p>
+
+I work with data and use AI to research, build, and refine practical software.
 
 ### Selected work
 
@@ -10,7 +12,7 @@ Comparing missing-data methods for housing-price prediction, with notebooks and 
 **02 / TOOLS** · [Slink](https://github.com/jaesungkr/slink)  
 A Windows utility built with Python, Win32 APIs, and a web UI. [Download the app →](https://github.com/jaesungkr/slink/releases/latest)
 
-**03 / WORKFLOWS** · [dev.log workspace](https://github.com/jaesungkr/blog-workspace)  
+**03 / AI WORKFLOWS** · [dev.log workspace](https://github.com/jaesungkr/blog-workspace)  
 AI-assisted research and publishing, backed by Python validation and versioned sources.
 
 ---
