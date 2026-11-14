@@ -2,19 +2,19 @@
   <img src="assets/identity.svg" width="960" alt="Data into useful tools. Data and AI-assisted workflows, connected to practical software." />
 </p>
 
-I work with data and use AI to research, build, and refine practical software.
+I develop data-driven detection systems and use AI to research, build, and test practical software.
 
 ### Selected work
 
-**01 / DATA** · [Missing-data research](https://github.com/jaesungkr/Prediction-with-incomplete-data)  
-Comparing missing-data methods for housing-price prediction, with notebooks and evaluation results.
+**[Memory Inspection Lab](https://github.com/jaesungkr/memory-inspection-lab)** · Python / C++ / Windows  
+Controlled memory experiments: numeric search, guarded edits, and access diagnostics. Built around test targets, not commercial games.
 
-**02 / TOOLS** · [Slink](https://github.com/jaesungkr/slink)  
-A Windows utility built with Python, Win32 APIs, and a web UI. [Download the app →](https://github.com/jaesungkr/slink/releases/latest)
+**[Missing-data research](https://github.com/jaesungkr/Prediction-with-incomplete-data)** · Data / Machine learning  
+Comparing four approaches to missing observations in housing-price prediction.
 
-**03 / AI WORKFLOWS** · [dev.log workspace](https://github.com/jaesungkr/blog-workspace)  
-AI-assisted research and publishing, backed by Python validation and versioned sources.
+**[Slink](https://github.com/jaesungkr/slink)** · Python / Win32  
+A desktop utility for hiding and restoring Windows app windows. [Download →](https://github.com/jaesungkr/slink/releases/latest)
 
----
+### In practice
 
-[Read dev.log →](https://dop3n.tistory.com)
+[Open-source contributions](https://github.com/pulls?q=is%3Apr+author%3Ajaesungkr+-user%3Ajaesungkr) · [AI-assisted publishing workflow](https://github.com/jaesungkr/blog-workspace) · [Read dev.log](https://dop3n.tistory.com)
