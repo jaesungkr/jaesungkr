@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/profile-tools-v5.svg" width="960" alt="Developer tools and experiments. Data and AI-assisted development." />
+  <img src="assets/profile-tools-v6.svg" width="960" alt="Tools and experiments. Personal software projects." />
 </p>
 
 ### Selected work
