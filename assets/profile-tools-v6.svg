@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+<title id="title">Tools and experiments</title>
+<desc id="desc">Personal software projects. Separate data, code, and graph symbols share one horizontal row. Only the short connectors animate once; nothing moves or overlaps. Reduced-motion settings show a static image.</desc>
+<style>
+@media(prefers-reduced-motion:no-preference){.a{animation:link 3s ease-in-out 1}.b{animation:link 3s .4s ease-in-out 1}}
+@keyframes link{0%,20%{opacity:.15}80%,100%{opacity:1}}
+</style>
+<rect x=".5" y=".5" width="959" height="239" rx="16" fill="#10161E" stroke="#303B49"/>
+<g fill="#EDF2F7" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="600" letter-spacing="-1.4">
+<text x="36" y="106">Tools &amp;</text><text x="36" y="168">experiments</text>
+</g>
+<g stroke="#35465B" stroke-width="1.5" fill="#151F2B">
+<rect x="577" y="78" width="80" height="84" rx="12"/>
+<rect x="697" y="78" width="80" height="84" rx="12"/>
+<rect x="817" y="78" width="80" height="84" rx="12"/>
+</g>
+<g fill="none" stroke="#88B7F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path class="a" d="M666 120h22m-5-4 5 4-5 4"/>
+<path class="b" d="M786 120h22m-5-4 5 4-5 4"/>
+<g stroke="#A9B8CA">
+<path d="M597 101h40m-40 19h40m-40 19h40M607 97v46m20-46v46"/>
+<path d="M719 109l-10 11 10 11m36-22 10 11-10 11m-24 14 12-28"/>
+<path d="M836 120h12q8 0 8-8v-7h20m-20 15v15h20"/>
+</g>
+</g>
+<g fill="#151F2B" stroke="#8DD6C5" stroke-width="2">
+<circle cx="836" cy="120" r="4"/><circle cx="876" cy="105" r="4"/><circle cx="876" cy="135" r="4"/>
+</g>
+</svg>
