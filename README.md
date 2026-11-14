@@ -1,18 +1,11 @@
-<p>
-  <img src="assets/profile-tools-v6.svg" width="960" alt="Tools and experiments. Personal software projects." />
-</p>
+<p><img src="assets/line-study-v7.svg" width="960" alt="Abstract blue and teal line artwork." /></p>
 
-### Selected work
+### Projects
 
-**[Memory Inspection Lab](https://github.com/jaesungkr/memory-inspection-lab)** · Python / C++ / Windows  
-Controlled memory experiments: numeric search, guarded edits, and access diagnostics. Built around test targets, not commercial games.
+- **[Memory Inspection Lab](https://github.com/jaesungkr/memory-inspection-lab)** — Controlled Windows memory experiments with self-owned test targets. Python, C++.
+- **[Slink](https://github.com/jaesungkr/slink)** — Hide and restore Windows app windows. Python, Win32. [Releases](https://github.com/jaesungkr/slink/releases).
+- **[Missing-data research](https://github.com/jaesungkr/Prediction-with-incomplete-data)** — Four approaches to missing observations in housing-price prediction.
 
-**[Missing-data research](https://github.com/jaesungkr/Prediction-with-incomplete-data)** · Data / Machine learning  
-Comparing four approaches to missing observations in housing-price prediction.
+### Code & writing
 
-**[Slink](https://github.com/jaesungkr/slink)** · Python / Win32  
-A desktop utility for hiding and restoring Windows app windows. [Download →](https://github.com/jaesungkr/slink/releases/latest)
-
-### Links
-
-[Open-source contributions](https://github.com/search?q=is%3Apr+author%3Ajaesungkr+-user%3Ajaesungkr&type=pullrequests) · [AI-assisted publishing workflow](https://github.com/jaesungkr/blog-workspace) · [Read dev.log](https://dop3n.tistory.com)
+[Open-source contributions](https://github.com/search?q=is%3Apr+author%3Ajaesungkr+-user%3Ajaesungkr&type=pullrequests) · [AI-assisted publishing workflow](https://github.com/jaesungkr/blog-workspace) · [dev.log](https://dop3n.tistory.com)
