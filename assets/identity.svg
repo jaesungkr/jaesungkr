@@ -1,37 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
-  <title id="title">Find the signal. Build the system.</title>
-  <desc id="desc">Data, AI, engineering. A field of scattered observations resolves into a clean signal and connected nodes. A single four-second drawing animation stops on the complete design. Reduced-motion settings show the static design.</desc>
-  <defs>
-    <linearGradient id="signal" x1="0" x2="1"><stop stop-color="#91AAFF"/><stop offset="1" stop-color="#77E5CE"/></linearGradient>
-  </defs>
-  <style>
-    .trace {stroke-dasharray:1;stroke-dashoffset:0;animation:draw 4s cubic-bezier(.25,.1,.25,1) 1}
-    .node {animation:arrive 4s ease-out 1}
-    @keyframes draw {0%,12% {stroke-dashoffset:1} 78%,100% {stroke-dashoffset:0}}
-    @keyframes arrive {0%,65% {opacity:.3} 90%,100% {opacity:1}}
-    @media (prefers-reduced-motion:reduce) {.trace,.node {animation:none}}
-  </style>
-  <rect width="960" height="320" rx="20" fill="#101217"/>
-  <path d="M42 50h20" stroke="#91AAFF" stroke-width="4" stroke-linecap="round"/>
-  <text x="80" y="60" fill="#B7BDC9" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500" letter-spacing="1.8">DATA / AI / ENGINEERING</text>
-  <g fill="#F5F5F7" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2.3">
-    <text x="40" y="154">Find the signal.</text>
-    <text x="40" y="232">Build the system.</text>
-  </g>
-  <g transform="translate(655 95)">
-    <g fill="#626D85" opacity=".65">
-      <circle cx="8" cy="35" r="3"/><circle cx="34" cy="12" r="3"/><circle cx="24" cy="72" r="3"/>
-      <circle cx="60" cy="44" r="3"/><circle cx="47" cy="105" r="3"/><circle cx="10" cy="127" r="3"/>
-      <circle cx="75" cy="8" r="3"/><circle cx="75" cy="136" r="3"/><circle cx="95" cy="25" r="3"/>
-    </g>
-    <path d="M0 90L28 90 45 70 64 111 86 39 109 122 129 89H154L183 60H236" fill="none" stroke="#29313F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-    <path class="trace" pathLength="1" d="M0 90L28 90 45 70 64 111 86 39 109 122 129 89H154L183 60H236" fill="none" stroke="url(#signal)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-    <path d="M154 89L183 119H236" fill="none" stroke="#64799E" stroke-width="2"/>
-    <g class="node" fill="#101217" stroke="#77E5CE" stroke-width="2.5">
-      <circle cx="236" cy="60" r="10"/><circle cx="236" cy="119" r="10"/>
-    </g>
-    <circle cx="154" cy="89" r="5" fill="#91AAFF"/>
-    <circle class="node" cx="236" cy="60" r="3" fill="#77E5CE"/>
-    <circle class="node" cx="236" cy="119" r="3" fill="#77E5CE"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+<title id="title">Detection systems and developer tools</title>
+<desc id="desc">Data and AI-assisted development. A restrained branch diagram connects three modules. Its highlight draws once in three seconds; reduced-motion preferences show the completed diagram.</desc>
+<style>
+.route{stroke-dasharray:500;stroke-dashoffset:0;animation:connect 3s ease-out 1}
+@keyframes connect{from{stroke-dashoffset:500}to{stroke-dashoffset:0}}
+@media(prefers-reduced-motion:reduce){.route{animation:none}}
+</style>
+<rect x=".5" y=".5" width="959" height="239" rx="12" fill="#0D1117" stroke="#30363D"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="36" y="50" font-size="21" fill="#9DA7B3">DATA / AI-ASSISTED DEVELOPMENT</text>
+<g font-size="44" font-weight="600" letter-spacing="-.7" fill="#E6EDF3">
+<text x="34" y="115">Detection systems</text>
+<text x="34" y="163">&amp; developer tools</text>
+</g>
+</g>
+<g fill="none" stroke-linejoin="round">
+<path d="M620 121H672Q688 121 688 105V77Q688 61 704 61H817M688 121V166Q688 182 704 182H817" stroke="#30363D" stroke-width="2"/>
+<path class="route" d="M620 121H672Q688 121 688 105V77Q688 61 704 61H817" stroke="#79B8FF" stroke-width="2"/>
+<g fill="#161B22" stroke="#485360">
+<rect x="572" y="97" width="48" height="48" rx="8"/>
+<rect x="817" y="37" width="80" height="48" rx="8"/>
+<rect x="817" y="158" width="80" height="48" rx="8"/>
+</g>
+<g stroke="#9DA7B3" stroke-width="2" stroke-linecap="round">
+<path d="M585 110v22m11-22v22m11-22v22M830 51h22m-22 10h52m-52 10h35"/>
+<path d="M830 172h35m-35 10h52m-52 10h22"/>
+</g>
+<circle cx="688" cy="121" r="4" fill="#79B8FF" stroke="#0D1117" stroke-width="3"/>
+</g>
 </svg>
