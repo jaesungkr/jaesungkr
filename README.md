@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/identity.svg" width="960" alt="Data into useful tools. Data and AI-assisted workflows, connected to practical software." />
+  <img src="assets/identity.svg" width="960" alt="Find the signal. Build the system. Data, AI, and engineering." />
 </p>
 
 I develop data-driven detection systems and use AI to research, build, and test practical software.
