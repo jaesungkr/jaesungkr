@@ -2,9 +2,9 @@
 
 ### Projects
 
-- **[Memory Inspection Lab](https://github.com/jaesungkr/memory-inspection-lab)** — Controlled Windows memory experiments with self-owned test targets. Python, C++.
-- **[Slink](https://github.com/jaesungkr/slink)** — Hide and restore Windows app windows. Python, Win32. [Releases](https://github.com/jaesungkr/slink/releases).
-- **[Missing-data research](https://github.com/jaesungkr/Prediction-with-incomplete-data)** — Four approaches to missing observations in housing-price prediction.
+- **[Memory Inspection Lab](https://github.com/jaesungkr/memory-inspection-lab)**: Controlled Windows memory experiments with self-owned test targets. Python, C++.
+- **[Slink](https://github.com/jaesungkr/slink)**: Hide and restore Windows app windows. Python, Win32. [Releases](https://github.com/jaesungkr/slink/releases).
+- **[Missing-data research](https://github.com/jaesungkr/Prediction-with-incomplete-data)**: Four approaches to missing observations in housing-price prediction.
 
 ### Code & writing
 
