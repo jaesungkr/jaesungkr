@@ -1,8 +1,6 @@
 <p>
-  <img src="assets/profile-systems-v3.svg" width="960" alt="Detection systems and developer tools. Data and AI-assisted development." />
+  <img src="assets/profile-tools-v4.svg" width="960" alt="Developer tools and experiments. Data and AI-assisted development." />
 </p>
-
-I develop data-driven detection systems for game security. I use AI in research, implementation, and testing, and contribute bug fixes to Python open-source projects.
 
 ### Selected work
 
