@@ -17,4 +17,4 @@ A desktop utility for hiding and restoring Windows app windows. [Download →](h
 
 ### In practice
 
-[Open-source contributions](https://github.com/pulls?q=is%3Apr+author%3Ajaesungkr+-user%3Ajaesungkr) · [AI-assisted publishing workflow](https://github.com/jaesungkr/blog-workspace) · [Read dev.log](https://dop3n.tistory.com)
+[Open-source contributions](https://github.com/search?q=is%3Apr+author%3Ajaesungkr+-user%3Ajaesungkr&type=pullrequests) · [AI-assisted publishing workflow](https://github.com/jaesungkr/blog-workspace) · [Read dev.log](https://dop3n.tistory.com)
