@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+<title id="title">Detection systems and developer tools</title>
+<desc id="desc">Data and AI-assisted development. A restrained branch diagram connects three modules. Its highlight draws once in three seconds; reduced-motion preferences show the completed diagram.</desc>
+<style>
+.route{stroke-dasharray:500;stroke-dashoffset:0;animation:connect 3s ease-out 1}
+@keyframes connect{from{stroke-dashoffset:500}to{stroke-dashoffset:0}}
+@media(prefers-reduced-motion:reduce){.route{animation:none}}
+</style>
+<rect x=".5" y=".5" width="959" height="239" rx="12" fill="#0D1117" stroke="#30363D"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="36" y="50" font-size="21" fill="#9DA7B3">DATA / AI-ASSISTED DEVELOPMENT</text>
+<g font-size="44" font-weight="600" letter-spacing="-.7" fill="#E6EDF3">
+<text x="34" y="115">Detection systems</text>
+<text x="34" y="163">&amp; developer tools</text>
+</g>
+</g>
+<g fill="none" stroke-linejoin="round">
+<path d="M620 121H672Q688 121 688 105V77Q688 61 704 61H817M688 121V166Q688 182 704 182H817" stroke="#30363D" stroke-width="2"/>
+<path class="route" d="M620 121H672Q688 121 688 105V77Q688 61 704 61H817" stroke="#79B8FF" stroke-width="2"/>
+<g fill="#161B22" stroke="#485360">
+<rect x="572" y="97" width="48" height="48" rx="8"/>
+<rect x="817" y="37" width="80" height="48" rx="8"/>
+<rect x="817" y="158" width="80" height="48" rx="8"/>
+</g>
+<g stroke="#9DA7B3" stroke-width="2" stroke-linecap="round">
+<path d="M585 110v22m11-22v22m11-22v22M830 51h22m-22 10h52m-52 10h35"/>
+<path d="M830 172h35m-35 10h52m-52 10h22"/>
+</g>
+<circle cx="688" cy="121" r="4" fill="#79B8FF" stroke="#0D1117" stroke-width="3"/>
+</g>
+</svg>
