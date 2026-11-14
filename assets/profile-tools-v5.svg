@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="256" viewBox="0 0 960 256" role="img" aria-labelledby="title desc">
+<title id="title">Developer tools and experiments</title>
+<desc id="desc">Data and AI-assisted development. Three overlapping technical sketches show data, code, and a connected graph. One subtle four-second line animation ends on the complete illustration. Reduced motion shows a static image.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151B24"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#84ACFF"/><stop offset="1" stop-color="#80D6C2"/></linearGradient>
+</defs>
+<style>
+@media(prefers-reduced-motion:no-preference){
+.trace{animation:trace 4s cubic-bezier(.22,.61,.36,1) 1}
+.reveal{animation:reveal 4s ease-out 1}
+}
+@keyframes trace{0%,10%{stroke-dashoffset:600}85%,100%{stroke-dashoffset:0}}
+@keyframes reveal{0%,35%{opacity:.35}85%,100%{opacity:1}}
+</style>
+<rect x=".5" y=".5" width="959" height="255" rx="16" fill="url(#bg)" stroke="#303B49"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="36" y="54" font-size="20" letter-spacing=".5" fill="#A9B8CA">DATA / AI-ASSISTED DEVELOPMENT</text>
+<g font-size="48" font-weight="600" letter-spacing="-1.4" fill="#EDF2F7">
+<text x="34" y="123">Developer tools</text>
+<text x="34" y="179">&amp; experiments</text>
+</g>
+</g>
+<g stroke="#344354" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M560 215H917M574 28V229" stroke="#24303E"/>
+<path d="M570 53h8m-8 40h8m-8 40h8m-8 40h8m34 38v8m60-8v8m60-8v8m60-8v8m60-8v8" stroke="#465568"/>
+<rect x="609" y="39" width="134" height="114" rx="10" fill="#10161F"/>
+<path d="M627 65h98M627 91h98M627 117h98M650 54v83M680 54v83M710 54v83" stroke="#253344"/>
+<g fill="#7A90AD" stroke="none">
+<circle cx="636" cy="78" r="3"/><circle cx="664" cy="104" r="3"/><circle cx="694" cy="78" r="3"/><circle cx="721" cy="130" r="3"/>
+</g>
+<rect x="670" y="78" width="134" height="114" rx="10" fill="#151D28"/>
+<path d="M691 132l-9 8 9 8m43-16 9 8-9 8m-27 8 11-16" stroke="#A9B8CA" stroke-width="2"/>
+<path d="M686 98h27" stroke="#60748C" stroke-width="2"/>
+<rect x="763" y="118" width="134" height="114" rx="10" fill="#192330"/>
+<path d="M783 175h29q10 0 10-10v-7q0-10 10-10h42m-52 27v23h52" stroke="#40546D" stroke-width="2"/>
+<path class="trace" d="M636 78h28v26h30v-26h27v20h-35m5 34-9 8 9 8m43-16 9 8-9 8m49 27h29q10 0 10-10v-7q0-10 10-10h42" stroke="url(#line)" stroke-width="2" stroke-dasharray="600" stroke-dashoffset="0"/>
+<g class="reveal" fill="#192330" stroke="#80D6C2" stroke-width="2">
+<circle cx="874" cy="148" r="5"/><circle cx="874" cy="198" r="5"/>
+</g>
+<circle cx="783" cy="175" r="4" fill="#84ACFF" stroke="none"/>
+</g>
+</svg>
