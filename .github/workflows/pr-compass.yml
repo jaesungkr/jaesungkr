@@ -16,17 +16,17 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
-      - uses: jaesungkr/pr-compass@19e4cd27f8947b109b258d5806e24c498b2840d1
+      - uses: jaesungkr/pr-compass@06349716bf5d1064022915eb2e9e13d989dbbb42
         with:
           username: ${{ github.repository_owner }}
           limit: '5'
           language: en
           include-own: 'false'
           token: ${{ github.token }}
-      - name: Commit the README and generated cards
+      - name: Commit the README
         shell: bash
         run: |
-          git add -- README.md assets/pr-compass
+          git add -- README.md
           if git diff --cached --quiet; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
