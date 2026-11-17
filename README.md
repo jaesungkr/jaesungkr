@@ -15,10 +15,12 @@
 
 <!-- PR-COMPASS:START -->
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/pr-compass/overview-mobile-dark.svg?v=2026-11-17T09%3A25%3A05.810Z">
-  <source media="(max-width: 600px)" srcset="assets/pr-compass/overview-mobile-light.svg?v=2026-11-17T09%3A25%3A05.810Z">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/pr-compass/overview-dark.svg?v=2026-11-17T09%3A25%3A05.810Z">
-  <img src="assets/pr-compass/overview-light.svg?v=2026-11-17T09%3A25%3A05.810Z" alt="Recently merged: 2; Open: 9. External repositories only." width="920">
+  <source media="(max-width: 600px)" srcset="assets/pr-compass/overview-mobile-light.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-light-mode-only">
+  <img src="assets/pr-compass/overview-light.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-light-mode-only" alt="Recently merged: 2; Open: 9. External repositories only." width="920">
+</picture>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/pr-compass/overview-mobile-dark.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-dark-mode-only">
+  <img src="assets/pr-compass/overview-dark.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-dark-mode-only" alt="Recently merged: 2; Open: 9. External repositories only." width="920">
 </picture>
 
 **Recently merged:** [scipy/scipy #26713](https://github.com/scipy/scipy/pull/26713) · [joblib/joblib #1951](https://github.com/joblib/joblib/pull/1951)
@@ -26,7 +28,7 @@
 <details>
 <summary>PR links & status details</summary>
 
-> Observed: 2026-11-17 09:25:05 UTC
+> Observed: 2026-11-17 09:29:46 UTC
 
 #### Recently merged
 
