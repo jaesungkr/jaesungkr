@@ -14,14 +14,18 @@
 [Merged PRs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Ajaesungkr+-user%3Ajaesungkr&type=pullrequests) · [All external PRs](https://github.com/search?q=is%3Apr+author%3Ajaesungkr+-user%3Ajaesungkr&type=pullrequests)
 
 <!-- PR-COMPASS:START -->
+<a href="assets/pr-compass/overview-light.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-light-mode-only">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/pr-compass/overview-mobile-light.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-light-mode-only">
   <img src="assets/pr-compass/overview-light.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-light-mode-only" alt="Recently merged: 2; Open: 9. External repositories only." width="920">
 </picture>
+</a>
+<a href="assets/pr-compass/overview-dark.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/pr-compass/overview-mobile-dark.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-dark-mode-only">
   <img src="assets/pr-compass/overview-dark.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-dark-mode-only" alt="Recently merged: 2; Open: 9. External repositories only." width="920">
 </picture>
+</a>
 
 **Recently merged:** [scipy/scipy #26713](https://github.com/scipy/scipy/pull/26713) · [joblib/joblib #1951](https://github.com/joblib/joblib/pull/1951)
 
