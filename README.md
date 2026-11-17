@@ -14,8 +14,8 @@
 [Merged PRs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Ajaesungkr+-user%3Ajaesungkr&type=pullrequests) · [All external PRs](https://github.com/search?q=is%3Apr+author%3Ajaesungkr+-user%3Ajaesungkr&type=pullrequests)
 
 <!-- PR-COMPASS:START -->
-<a href="assets/pr-compass/stream-light.svg?v=2026-11-17T11%3A12%3A07.154Z#gh-light-mode-only"><img src="assets/pr-compass/stream-light.svg?v=2026-11-17T11%3A12%3A07.154Z#gh-light-mode-only" alt="Merge stream: merged contributions join; open PRs remain separate. Actual PR links follow." width="440"></a>
-<a href="assets/pr-compass/stream-dark.svg?v=2026-11-17T11%3A12%3A07.154Z#gh-dark-mode-only"><img src="assets/pr-compass/stream-dark.svg?v=2026-11-17T11%3A12%3A07.154Z#gh-dark-mode-only" alt="Merge stream: merged contributions join; open PRs remain separate. Actual PR links follow." width="440"></a>
+<a href="assets/pr-compass/stream-light.svg?v=2026-11-17T11%3A16%3A25.119Z#gh-light-mode-only"><img src="assets/pr-compass/stream-light.svg?v=2026-11-17T11%3A16%3A25.119Z#gh-light-mode-only" alt="Merge stream: merged contributions join; open PRs remain separate. Actual PR links follow." width="440"></a>
+<a href="assets/pr-compass/stream-dark.svg?v=2026-11-17T11%3A16%3A25.119Z#gh-dark-mode-only"><img src="assets/pr-compass/stream-dark.svg?v=2026-11-17T11%3A16%3A25.119Z#gh-dark-mode-only" alt="Merge stream: merged contributions join; open PRs remain separate. Actual PR links follow." width="440"></a>
 
 ### Recently merged · 2
 
@@ -86,7 +86,7 @@
 <details>
 <summary>About this snapshot</summary>
 
-Observed: 2026-11-17 11:12:07 UTC
+Observed: 2026-11-17 11:16:25 UTC
 
 Public PRs only. HEAD checks and review records are not a merge-readiness verdict. Required checks, branch protection, test-merge checks, and resolved conversations are not evaluated. Lists are sampled from up to 100 most recently updated matches; merged items are sorted by merge date within that sample.
 
