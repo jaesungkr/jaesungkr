@@ -14,16 +14,16 @@
 [Merged PRs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Ajaesungkr+-user%3Ajaesungkr&type=pullrequests) · [All external PRs](https://github.com/search?q=is%3Apr+author%3Ajaesungkr+-user%3Ajaesungkr&type=pullrequests)
 
 <!-- PR-COMPASS:START -->
-<a href="assets/pr-compass/overview-light.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-light-mode-only">
+<a href="assets/pr-compass/overview-light.svg?v=2026-11-17T09%3A33%3A46.231Z#gh-light-mode-only">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/pr-compass/overview-mobile-light.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-light-mode-only">
-  <img src="assets/pr-compass/overview-light.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-light-mode-only" alt="Recently merged: 2; Open: 9. External repositories only." width="920">
+  <source media="(max-width: 600px)" srcset="assets/pr-compass/overview-mobile-light.svg?v=2026-11-17T09%3A33%3A46.231Z#gh-light-mode-only">
+  <img src="assets/pr-compass/overview-light.svg?v=2026-11-17T09%3A33%3A46.231Z#gh-light-mode-only" alt="Recently merged: 2; Open: 9. External repositories only." width="920">
 </picture>
 </a>
-<a href="assets/pr-compass/overview-dark.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-dark-mode-only">
+<a href="assets/pr-compass/overview-dark.svg?v=2026-11-17T09%3A33%3A46.231Z#gh-dark-mode-only">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/pr-compass/overview-mobile-dark.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-dark-mode-only">
-  <img src="assets/pr-compass/overview-dark.svg?v=2026-11-17T09%3A29%3A46.982Z#gh-dark-mode-only" alt="Recently merged: 2; Open: 9. External repositories only." width="920">
+  <source media="(max-width: 600px)" srcset="assets/pr-compass/overview-mobile-dark.svg?v=2026-11-17T09%3A33%3A46.231Z#gh-dark-mode-only">
+  <img src="assets/pr-compass/overview-dark.svg?v=2026-11-17T09%3A33%3A46.231Z#gh-dark-mode-only" alt="Recently merged: 2; Open: 9. External repositories only." width="920">
 </picture>
 </a>
 
@@ -32,7 +32,7 @@
 <details>
 <summary>PR links & status details</summary>
 
-> Observed: 2026-11-17 09:29:46 UTC
+> Observed: 2026-11-17 09:33:46 UTC
 
 #### Recently merged
 
