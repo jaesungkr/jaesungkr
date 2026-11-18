@@ -13,6 +13,8 @@
 - **Resume JSON Generator**: Added a Clear skills button that updates live output and autosaves without changing other resume fields. [#42](https://github.com/edulinkup-interns/resume-json-generator/pull/42)
 - **Gridcraft**: Fixed preview toggles incorrectly showing an error toast. [#157](https://github.com/Rohan-Shridhar/gridcraft/pull/157)
 
+- **lktec-bot**: Added an eager global `--version` option with regression tests and documentation. [#71](https://github.com/lukislp/lktec-bot/pull/71)
+
 ### Code & writing
 
 [AI-assisted publishing workflow](https://github.com/jaesungkr/blog-workspace) · [dev.log](https://dop3n.tistory.com)
