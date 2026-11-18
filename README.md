@@ -10,7 +10,6 @@
 
 - **SciPy**: Removed an unused private wrapper from `scipy.optimize`. [#26713](https://github.com/scipy/scipy/pull/26713)
 - **joblib**: Clarified `dump` return values for file objects in docs and tests. [#1951](https://github.com/joblib/joblib/pull/1951)
-
 - **Resume JSON Generator**: Added a Clear skills button that updates live output and autosaves without changing other resume fields. [#42](https://github.com/edulinkup-interns/resume-json-generator/pull/42)
 - **Gridcraft**: Fixed preview toggles incorrectly showing an error toast. [#157](https://github.com/Rohan-Shridhar/gridcraft/pull/157)
 
