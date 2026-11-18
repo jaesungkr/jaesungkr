@@ -13,6 +13,7 @@
 - **Resume JSON Generator**: Added a Clear skills button that updates live output and autosaves without changing other resume fields. [#42](https://github.com/edulinkup-interns/resume-json-generator/pull/42)
 - **Gridcraft**: Fixed preview toggles incorrectly showing an error toast. [#157](https://github.com/Rohan-Shridhar/gridcraft/pull/157)
 - **lktec-bot**: Added an eager global `--version` option with regression tests and documentation. [#71](https://github.com/lukislp/lktec-bot/pull/71)
+- **complydoc**: Added detection of PowerPoint shapes hidden in the Selection Pane while retaining their text for auditing. [#89](https://github.com/complydoc/complydoc/pull/89)
 
 ### Code & writing
 
