@@ -17,6 +17,7 @@
 - **flake8-bugbear**: Added a B034 example showing how to pass `flags=` to `re.sub`. [#641](https://github.com/PyCQA/flake8-bugbear/pull/641)
 - **Siftwise**: Fixed Go package discovery in workspaces that use vendored dependencies. [#83](https://github.com/PramodBasavarajMenasi/siftwise/pull/83)
 - **py-predicate**: Added `is_int_str_p` to identify strings Python can parse as integers. [#430](https://github.com/mrijk/py-predicate/pull/430)
+- **napari**: Removed an unused Pint unit registry accessor. [#9920](https://github.com/napari/napari/pull/9920)
 
 ### Code & writing
 
