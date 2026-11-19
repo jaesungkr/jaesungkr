@@ -14,6 +14,7 @@
 - **Gridcraft**: Fixed preview toggles incorrectly showing an error toast. [#157](https://github.com/Rohan-Shridhar/gridcraft/pull/157)
 - **lktec-bot**: Added an eager global `--version` option with regression tests and documentation. [#71](https://github.com/lukislp/lktec-bot/pull/71)
 - **complydoc**: Added detection of PowerPoint shapes hidden in the Selection Pane while retaining their text for auditing. [#89](https://github.com/complydoc/complydoc/pull/89)
+- **flake8-bugbear**: Added a B034 example showing how to pass `flags=` to `re.sub`. [#641](https://github.com/PyCQA/flake8-bugbear/pull/641)
 
 ### Code & writing
 
